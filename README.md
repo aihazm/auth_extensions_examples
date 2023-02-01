@@ -1,1 +1,3 @@
-# auth_extensions_examplesa
+# auth_extensions_examples
+
+Generic repository for storing extensions examples with auth
